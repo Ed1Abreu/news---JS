@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  proxy:
+    image: noticia-nginx
+    build:
+      context: .
+    ports:
+      - "30001:80"
+    networks:
+      - noticia
+
+networks: 
+  noticia:
+    driver: bridge
