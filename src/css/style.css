@@ -1,0 +1,61 @@
+.scoreboard{
+    display: flex;
+    text-align: center;
+    margin-left: 45%;
+    margin-top: 2%;
+}
+
+span{
+    color: #00f100;
+}
+
+.scoreboard h3{
+    margin: 2%;
+    font-weight: bold;
+}
+
+.flags{
+    width: 50px;
+}
+
+.name{
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.section-1 h6{
+    margin-left: 54.3%;
+}
+
+.section-1 h4{
+    margin-left: 47.5%;
+}
+
+.section-2{
+    text-align: center;
+    margin-top: 3%;
+}
+
+.section-2 h3{
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.section-2 h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+}
+
+.section-2 img{
+    width: 50%;
+}
+
+.section-2 h6{
+    margin-right: 23%;
+}
+
+.writing{
+    text-align: left;
+    margin-left: 25%;
+}
